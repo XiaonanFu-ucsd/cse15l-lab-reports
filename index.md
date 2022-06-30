@@ -19,7 +19,7 @@ Lists:
 * a
 * b
 * c
-* d
+* d  
 ---  
 some code
 ```
