@@ -21,8 +21,12 @@ Lists:
 * c
 * d  
   * d.1
+  
 ---  
 some code
 ```
 console.log("hello world");
 ```
+
+# benefits to seperate commit and push
+They serve different function. Commit means create a new node in the file editing history. Push sync local repository and remote repository. 
